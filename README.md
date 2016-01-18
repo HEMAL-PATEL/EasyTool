@@ -49,7 +49,7 @@ img.LAC("SomeUrlofYourImage");
 
 This method is a combination of the others. It's a very fast way if you want to make all of them.Usage is the same way of LAB.
 
--Example<br/>
+- Example<br/>
 img.LAB("SomeUrlofYourImage",getApplicationContext,7.5f);
 
 
