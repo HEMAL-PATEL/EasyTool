@@ -55,7 +55,7 @@ img.LAB("SomeUrlofYourImage",getApplicationContext,7.5f);
 
 # Download Jar
 > Here is a link for download jar and use fast.<br/>
-[Dropbox](https://www.dropbox.com/s/zzmwj51q56esdy6/EasyTool.jar?dl=0)
+[from Dropbox](https://www.dropbox.com/s/zzmwj51q56esdy6/EasyTool.jar?dl=0)
 
 
 
