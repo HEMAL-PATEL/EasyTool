@@ -53,6 +53,11 @@ This method is a combination of the others. It's a very fast way if you want to 
 img.LAB("SomeUrlofYourImage",getApplicationContext,7.5f);
 
 
+# Download Jar
+> Here is a link for download jar and use fast.
+[a relative link](https://www.dropbox.com/s/zzmwj51q56esdy6/EasyTool.jar?dl=0)
+
+
 
 
 
