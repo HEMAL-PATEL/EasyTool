@@ -25,11 +25,6 @@ Now you can start using methods.There are four methods.
 It's a very simple to use. You must just set an url of image which is what you want to load.
 
 - Example<br/>
-    <com.xionces.EasyTool.ImageView
-            android:layout_width="200dp"
-            android:layout_height="200dp"
-            android:id="@+id/imageView1"
-    />
 img.L("SomeUrlofYourImage");
 
 ### LAB(Load and Blur)
