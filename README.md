@@ -1,5 +1,5 @@
-->![alt text](http://i.hizliresim.com/zrM9Mj.png)<-
-->Deneme<-
+<img src="http://i.hizliresim.com/zrM9Mj.png" align="left" />
+
 # EasyTool
 
 
