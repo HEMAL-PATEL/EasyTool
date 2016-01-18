@@ -33,7 +33,7 @@ This method works for make your image blur. There are 3 parameters.
 
 img.LAB(String url,Context context, Float radius)
 
-- Example
+- Example<br/>
 img.LAB("SomeUrlofYourImage",getApplicationContext,7.5f);
 
 
