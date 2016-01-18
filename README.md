@@ -37,7 +37,7 @@ img.LAB(String url,Context context, Float radius)
 img.LAB("SomeUrlofYourImage",getApplicationContext,7.5f);
 
 
-## LAC ( Load and Circle)
+## LAC (Load and Circle)
 
 This method load image from your url and make circle with your image's width and height.
 
@@ -45,7 +45,7 @@ This method load image from your url and make circle with your image's width and
 img.LAC("SomeUrlofYourImage");
 
 
-## LABAC( Load and Blur and Circle)
+## LABAC(Load and Blur and Circle)
 
 This method is a combination of the others. It's a very fast way if you want to make all of them.Usage is the same way of LAB.
 
