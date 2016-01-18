@@ -1,4 +1,4 @@
-->![alt text]Deneme(http://i.hizliresim.com/zrM9Mj.png)<-
+->![alt text](http://i.hizliresim.com/zrM9Mj.png)<-
 
 # EasyTool
 
