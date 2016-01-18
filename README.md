@@ -24,7 +24,7 @@ Now you can start using methods.There are four methods.
 
 It's a very simple to use. You must just set an url of image which is what you want to load.
 
-- Example
+- Example<br/>
 img.L("SomeUrlofYourImage");
 
 ### LAB(Load and Blur)
@@ -41,7 +41,7 @@ img.LAB("SomeUrlofYourImage",getApplicationContext,7.5f);
 
 This method load image from your url and make circle with your image's width and height.
 
-- Example
+- Example<br/>
 img.LAC("SomeUrlofYourImage");
 
 
@@ -49,7 +49,7 @@ img.LAC("SomeUrlofYourImage");
 
 This method is a combination of the others. It's a very fast way if you want to make all of them.Usage is the same way of LAB.
 
--Example
+-Example<br/>
 img.LAB("SomeUrlofYourImage",getApplicationContext,7.5f);
 
 
