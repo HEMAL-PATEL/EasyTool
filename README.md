@@ -13,3 +13,9 @@ First, you must modify your image view like this to use library's methods
             android:id="@+id/imageView1"
     />
 
+Now you can start using methods.Here is a three methods.
+
+- L (Load from Url)
+- LAB ( Load and Blur)
+- LAC ( Load and Circle)
+- LABAC (Load and Blur and Circle)
