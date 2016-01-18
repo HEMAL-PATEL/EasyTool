@@ -1,4 +1,6 @@
-![alt text](http://i.hizliresim.com/zrM9Mj.png)# EasyTool
+![alt text](http://i.hizliresim.com/zrM9Mj.png)
+
+# EasyTool
 
 
 Contains basic tools of image works like loading image from url, making an image circle or blur.
